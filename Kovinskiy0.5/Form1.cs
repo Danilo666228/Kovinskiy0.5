@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Kovinskiy0._5
@@ -21,6 +16,7 @@ namespace Kovinskiy0._5
         {
             InitializeComponent();
             GenerateMap();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void GenerateMap()
@@ -211,7 +207,8 @@ namespace Kovinskiy0._5
                     _buttons[i, j] = button;
                     button.Size = new Size(SizeButton, SizeButton);
                     button.Text = _map[i, j].ToString();
-                    button.BackColor = Color.Coral;
+                    button.BackColor = Color.Ivory;
+                    button.Font = new Font("JetBrains Mono", 12, FontStyle.Bold);
                     button.Click += OnCellPressed;
                     button.Location = new Point(j * SizeButton, i * SizeButton);
                     this.Controls.Add(button);
@@ -359,6 +356,8 @@ namespace Kovinskiy0._5
 
             }
         }
+        
+           
     }
 }
 
