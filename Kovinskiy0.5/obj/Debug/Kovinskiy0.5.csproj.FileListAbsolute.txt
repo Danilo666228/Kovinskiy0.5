@@ -1,0 +1,10 @@
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\bin\Debug\Kovinskiy0._5.exe.config
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\bin\Debug\Kovinskiy0._5.exe
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\bin\Debug\Kovinskiy0._5.pdb
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0.5.csproj.AssemblyReference.cache
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0._5.Properties.Resources.resources
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0.5.csproj.GenerateResource.cache
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0.5.csproj.CoreCompileInputs.cache
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0._5.exe
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0._5.pdb
+R:\Visual Studio 2022\С#\УП.01Лебедева\Kovinskiy0.5\Kovinskiy0.5\obj\Debug\Kovinskiy0._5.Form1.resources
